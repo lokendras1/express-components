@@ -1,0 +1,23 @@
+{
+  "name": "express-components",
+  "version": "1.0.0",
+  "description": "Generates named components for an express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "bin": {
+    "ecg": "bin/ecg.js"
+  },
+  "keywords": [
+    "express",
+    "components",
+    "node",
+    "npm"
+  ],
+  "author": "Lokendra Soni",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
