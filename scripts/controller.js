@@ -14,7 +14,7 @@ module.exports = (component, path) => {
     }
     else {
         if (!fs.existsSync(`${path}\\controllers`)) {
-            fs.mkdirSync(`${path}\\controllers`);
+            fs.mkdirSync(`${path}\\controllers`, { recursive: true });
         }
         fs.writeFileSync(filePath, controller, { flag: "wx" });
     }
