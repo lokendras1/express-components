@@ -1,3 +1,3 @@
-exports.index = () => {
+exports.service = () => {
 
 };
