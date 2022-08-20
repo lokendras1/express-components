@@ -1,5 +1,5 @@
 {
-  "name": "@pastern/ecg",
+  "name": "@lokendras1/ecg",
   "version": "1.0.0",
   "description": "Generates named components for an express app",
   "main": "index.js",
