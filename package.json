@@ -1,5 +1,5 @@
 {
-  "name": "express-components",
+  "name": "@pastern/express-components",
   "version": "1.0.0",
   "description": "Generates named components for an express app",
   "main": "index.js",
